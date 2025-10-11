@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     int userchoice , comchoice;
-    
+    // kuch bhi 
     // int userchoice;
     // int comchoice = rand()%3+1;
     // cout<<rock, paper, scissor ;
